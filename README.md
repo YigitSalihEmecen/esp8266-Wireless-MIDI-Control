@@ -12,3 +12,4 @@ Steps:<br>
 A tutorial and demonstration video will be uploaded.<br><br>
 
 by Yiğit Salih Emecen
+![WhatsApp Image 2023-06-12 at 19 07 42](https://github.com/YigitSalihEmecen/esp8266-Wireless-MIDI-Control/assets/80755434/ad97d4df-f1b1-4815-beee-84955b1f4c48)
